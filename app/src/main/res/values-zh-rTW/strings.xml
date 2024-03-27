@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">技能競賽氣象站</string>
+    <string name="edit_locations">編輯地點</string>
+    <string name="edit">編輯</string>
+    <string name="enter_city_name">輸入城市名稱</string>
+    <string name="duplicated_error">錯誤：%s已在列表中。</string>
+    <string name="hourly_forecast">每小時預測</string>
+    <string name="set_language">設置語言</string>
+    <string name="chinese">中文</string>
+    <string name="english">英文（English）</string>
+</resources>

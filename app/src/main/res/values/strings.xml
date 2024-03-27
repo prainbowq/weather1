@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skills Competition Weather Station</string>
+    <string name="edit_locations">Edit Locations</string>
+    <string name="edit">Edit</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="duplicated_error">Error: %s has been in the list.</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="set_language">Set language</string>
+    <string name="chinese">Chinese (中文)</string>
+    <string name="english">English</string>
+</resources>
